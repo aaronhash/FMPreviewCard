@@ -23,9 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./images/output/desktop.png)
-![Tablet](./images/output/tablet.jpg)
-![Phone](./images/output/phone.jpg)
+![all](./images/output/all.png)
 
 ### Links
 
