@@ -64,6 +64,8 @@ h1 {
     font-family: 'Fraunces', serif;
     padding: 24px 2px;
     line-height: 100%;
+    font-weight: 700;
+    margin-right: 30px;
 }
 
 #prices {
